@@ -1,5 +1,7 @@
 # Speech Recognition From Scratch (Conformer-CTC)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ebhosdest/Speech-Recognition-from-Scratch/blob/main/Conformer_CTC_from_scratch.ipynb)
+
 A speech recognition system built from scratch in PyTorch. No high level ASR
 framework, no pretrained weights, no API. The goal was to understand every
 part of a modern speech recognition model by building it, not calling it.
